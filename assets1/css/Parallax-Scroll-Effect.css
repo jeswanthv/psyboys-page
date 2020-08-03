@@ -1,0 +1,36 @@
+#box-1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(https://images.unsplash.com/photo-1527176930608-09cb256ab504?ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(https://images.wallpaperscraft.com/image/branch_minimalism_bw_125024_1280x720.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(https://images.wallpaperscraft.com/image/wood_black-and-white_from_below_trees_gloomy_kroner_fog_silence_60216_1680x1050.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: arial black;
+  font-size: 50px;
+  color: white;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}

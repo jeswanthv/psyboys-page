@@ -1,0 +1,53 @@
+.newsletter8 {
+  font-family: "Montserrat", sans-serif;
+  color: #51545c;
+  font-weight: 300;
+}
+
+.newsletter8 h1, .newsletter8 h2, .newsletter8 h3, .newsletter8 h4, .newsletter8 h5, .newsletter8 h6 {
+  color: #3e4555;
+}
+
+.newsletter8 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+}
+
+.newsletter8 a {
+  color: #263238;
+}
+
+.newsletter8 a:hover {
+  color: #316ce8;
+}
+
+.newsletter8 .blog-row h5 {
+  font-weight: 500;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.newsletter8 .text-themecolor {
+  color: #316ce8;
+}
+
+.newsletter8 .btn-danger-gradiant {
+  background: black;
+}
+
+.newsletter8 .btn-danger-gradiant:hover {
+  background: blue;
+}
+.Manekshaw{
+  padding-left: 19px;
+}
+
+
+.newsletter8 .btn-md {
+  padding: 15px 45px;
+  font-size: 16px;
+}
+
+.newsletter8 .text-danger {
+  color: black !important;
+}
